@@ -19,7 +19,7 @@ titulo.innerHTML = 'Hora do Desafio';
 No `index.html`, adicionamos no onclick o seguinte código:
 
 ```html 
-<button onclick="exibirMensagemNoConsole()" class="button">Console</button>
+<button onclick="exibirMensagemNoConsole()" class="container__botao">Chutar</button>
 ```
 
 - Já no `app.js`:
